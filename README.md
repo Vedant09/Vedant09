@@ -152,22 +152,18 @@
 
 
 # Stats:
-  <div align="center">
-    <div align="center">   
-    <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant09&" alt="vedant09" />
-    </p>
-  </div> 
-    <div align="center">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant09&show_icons=true&locale=en&layout=compact" alt="vedant09" />
-  </p>
-    </div>
-    
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant09&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="vedant09" />    </p>
-   
-  </div>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant09&theme=dark" alt="vedant09" />
+</p>
+
+<p align="center">&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant09&show_icons=true&theme=dark&title_color=FFA500&text_color=FFFFFF&bg_color=151515&locale=en" alt="vedant09" />
+</p>
+
+<p align="center"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant09&show_icons=true&theme=dark&locale=en&layout=compact" alt="vedant09" />
+</p>
 
 
 
