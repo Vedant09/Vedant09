@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vedant09.github.io/Portfolio/](https://vedant09.github.io/Portfolio/)
 
-- 📫 How to reach me **vedantvy98@gmail.com**
+- 📫 How to reach me **vedantvy98@gmgail.com**
 
 
 
