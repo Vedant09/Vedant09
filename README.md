@@ -7,7 +7,7 @@
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=vedant09&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
-- 🔭 I’m currently working on [Rapid Cloudify](http://rapidcloudify.com/)
+- 🔭 Currently working on [Rapid Cloudify](http://rapidcloudify.com/)
 
 - 👨‍💻 All of my projects are available at [https://vedant09.github.io/Portfolio/](https://vedant09.github.io/Portfolio/)
 
