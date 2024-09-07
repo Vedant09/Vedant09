@@ -1,4 +1,4 @@
-# Hi There 👋🏻, I'm Vedant Yelsangikar
+# Hi There 👋🏻, I'm Vedant Yelsangikar.
 <h3 align="center">A Full Stack Developer with a keen interest in Distributed Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant09&label=Views&color=2231a0&style=flat" alt="vedant09" /> </p>
