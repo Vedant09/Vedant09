@@ -7,7 +7,7 @@
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=vedant09&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
-- 👨‍💻 Full Stack Developer at SLK America Inc..
+- 👨‍💻 Full Stack Developer at SLK America Inc, Ohio.
 
 - 🔭 Currently working on [Rapid Cloudify](http://rapidcloudify.com/)
 
