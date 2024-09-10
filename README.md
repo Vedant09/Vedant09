@@ -169,7 +169,7 @@
 
 
 
-# Connect with me:
+# Connect with me at:
 <div align="center">
   <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/vedant-yelsangikar/" target="blank">
