@@ -9,7 +9,7 @@
 
 - 👨‍💻 Full Stack Developer at SLK America Inc.
 
-- 🔭 Currently working on our project - [Rapid Cloudify](http://rapidcloudify.com/)
+- 🔭 Currently working on our project - [Rapid Cloudify](https://rapidcloudify.com/)
 
 - 👨‍💻 All of my projects are available at [https://vedant09.github.io/Portfolio/](https://vedant09.github.io/Portfolio/)
 
