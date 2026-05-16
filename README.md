@@ -1,7 +1,7 @@
 # Hi There 👋🏻, I'm Vedant Yelsangikar.
 <h3 align="center">A Full Stack Developer with a keen interest in Distributed Systems.</h3>
 
-<h3>Want to Play a card game with your friends??</h3> - [https://five-point-show-production.up.railway.app/]
+<h3 align="center">Want to Play a card game with your friends??</h3> - [https://five-point-show-production.up.railway.app/]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant09&label=Views&color=2231a0&style=flat" alt="vedant09" /> </p>
 
