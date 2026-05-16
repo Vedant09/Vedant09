@@ -2,7 +2,9 @@
 <h3 align="center">A Full Stack Developer with a keen interest in Distributed Systems.</h3>
 
 <h3 align="center">
-  [Want to Play a card game with your friends??](https://five-point-show-production.up.railway.app/)
+  <a href="https://five-point-show-production.up.railway.app/">
+    Want to Play a card game with your friends??
+  </a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant09&label=Views&color=2231a0&style=flat" alt="vedant09" /> </p>
