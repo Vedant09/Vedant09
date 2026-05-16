@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <a href="https://five-point-show-production.up.railway.app/">
-    Want to Play a card game with your friends??
+    Play a fast-paced multiplayer card game with your friends
   </a>
 </h3>
 
