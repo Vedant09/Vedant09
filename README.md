@@ -5,6 +5,9 @@
   <a href="https://five-point-show-production.up.railway.app/">
     Play a fast-paced multiplayer card game with your friends
   </a>
+  <a href="https://7-hearts-production.up.railway.app/">
+    Want to play your childhood game? try this out.
+  </a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant09&label=Views&color=2231a0&style=flat" alt="vedant09" /> </p>
