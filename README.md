@@ -5,6 +5,8 @@
   <a href="https://five-point-show-production.up.railway.app/">
     Play a fast-paced multiplayer card game with your friends
   </a>
+</h3>
+<h3>
   <a href="https://7-hearts-production.up.railway.app/">
     Want to play your childhood game? try this out.
   </a>
